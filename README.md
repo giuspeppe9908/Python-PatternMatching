@@ -15,6 +15,6 @@ You have to set your pattern that has to be find into the big matrix, then you h
 Then clicking on "Find Pattern" it will search automatically and it will notice you about which pattern is/are found!
 # WARNING!!!!
 Make sure you have already installed tkinter
-You can watch an example into images folder fo this repo!
+You can watch an example into images folder for this repo!
 # ENJOY
 Enjoy the game :)
