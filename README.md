@@ -8,7 +8,7 @@ It works with MxN matrix (the big one and the little one)
 You have to establish rows and coloumns of the BIG Matrix.
 By clicking on "Set Rows" and "Set Cols" you will be able to confirm the dimensions chosen.
 If you don't click on them it appears but the game can't work in the proper way!
-Clicking on "Create Matrix" it will show the big matrix, then clicking on "Create Pattern" button
+Clicking on "Create Game Matrix" it will show the big matrix, then clicking on "Create Mini Pattern" button
 it will open another window where to put rows and cols of the mini matrix.
 It will show your mini matrix under the big one.
 You have to set your pattern that has to be find into the big matrix, then you have to set into the bigger one the pattern in the area you want!
